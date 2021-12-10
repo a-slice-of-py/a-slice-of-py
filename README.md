@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=a-slice-of-py&show_icons=true&theme=merko" width = 500>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=a-slice-of-py&layout=compact&theme=merko" width = 420>
+  <img src = "https://github-readme-stats.vercel.app/api?username=a-slice-of-py&show_icons=true&theme=merko" width = 400>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=a-slice-of-py&layout=compact&theme=merko" width = 335>
 </p>
