@@ -1,4 +1,4 @@
-🎓 Mathematician and enthusiast 🐍 Pythonista currently employed as ⚗️ Data Scientist.
+🎓 **Mathematician** and enthusiast 🐍 **Pythonista** currently employed as ⚗️ **Data Scientist**.
 
 <!-- badge credits to https://github.com/Ileriayo/markdown-badges#shortcuts -->
 
