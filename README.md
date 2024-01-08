@@ -1,4 +1,4 @@
-🎓 **Mathematician** and enthusiast 🐍 **Pythonista** currently employed as ⚗️ **Data Scientist**.
+I am a former [mathematician](https://arxiv.org/abs/1807.11287)[^1], amateur [singer, guitarist and music producer](https://radrocks.bandcamp.com/album/dieci) and casual [hiker](https://goo.gl/maps/XFowRG5hPc7ufbX69) - currently employed as Data Scientist.
 
 <!-- badge credits to https://github.com/Ileriayo/markdown-badges#shortcuts -->
 
@@ -19,4 +19,6 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=a-slice-of-py&layout=compact&theme=merko" width = 335>
 </p> -->
 
-You can find me on [DSH](https://a-slice-of-py.github.io/data-scientist-hub/about/), 👔 [Linkedin](https://it.linkedin.com/in/silviolugaro) or listen to some of my records on 🎸 [bandcamp](https://radrocks.bandcamp.com/album/dieci).
+You can find me on [GitHub](https://github.com/a-slice-of-py) or [Linkedin](https://it.linkedin.com/in/silviolugaro).
+
+[^1]: For reference, [here](https://www.dima.unige.it/~sorrentino/Students/Tesi_Lugaro_Silvio.pdf) my master thesis and [here](https://prezi.com/dx8zq6x2p-dq/bayesian-monte-carlo/) some Prezi slides used during the final dissertation.
