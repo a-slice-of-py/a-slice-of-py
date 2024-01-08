@@ -19,6 +19,6 @@ I am a former [mathematician](https://arxiv.org/abs/1807.11287)[^1], amateur [si
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=a-slice-of-py&layout=compact&theme=merko" width = 335>
 </p> -->
 
-You can find me on [GitHub](https://github.com/a-slice-of-py) or [Linkedin](https://it.linkedin.com/in/silviolugaro).
+You can visit [my tech blog](https://a-slice-of-py.github.io/data-scientist-hub/) or find me on [GitHub](https://github.com/a-slice-of-py) or [Linkedin](https://it.linkedin.com/in/silviolugaro).
 
 [^1]: For reference, [here](https://www.dima.unige.it/~sorrentino/Students/Tesi_Lugaro_Silvio.pdf) my master thesis and [here](https://prezi.com/dx8zq6x2p-dq/bayesian-monte-carlo/) some Prezi slides used during the final dissertation.
